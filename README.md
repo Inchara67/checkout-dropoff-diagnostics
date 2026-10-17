@@ -5,9 +5,9 @@
 
 ## Dashboard preview
 
-![Checkout funnel by device](dashboard/funnel_page.png)
+![Checkout funnel by device](dashboard/Funnel_Page.png)
 
-![Weekly cohort retention](dashboard/cohort_page.png)
+![Weekly cohort retention](dashboard/Cohort_Page.png)
 
 [Download the dashboard as a PDF](dashboard/Checkout_Drop-Off_Diagnostics.pdf)
 
