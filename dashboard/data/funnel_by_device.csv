@@ -1,0 +1,16 @@
+device,event_name,users,stage_order
+desktop,view_item,36323,1
+desktop,add_to_cart,7384,2
+desktop,begin_checkout,5665,3
+desktop,add_payment_info,3352,4
+desktop,purchase,2541,5
+mobile,view_item,24810,1
+mobile,add_to_cart,5142,2
+mobile,begin_checkout,3968,3
+mobile,add_payment_info,2387,4
+mobile,purchase,1851,5
+tablet,view_item,1443,1
+tablet,add_to_cart,276,2
+tablet,begin_checkout,219,3
+tablet,add_payment_info,134,4
+tablet,purchase,97,5
